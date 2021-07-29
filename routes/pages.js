@@ -29,7 +29,7 @@ router.get('/:slug', function(req, res){
       res.redirect('/');
     } else {
       res.render('index', {
-        title:'page.title',
+        title: page.title,
         content: page.content
       });
     }
