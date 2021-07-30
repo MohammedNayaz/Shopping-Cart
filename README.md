@@ -11,7 +11,7 @@ DataBase Used: MongoDB
 
 FrameWork Used: Bootstrap 5
 
-#Some Snapshots of Server Side view
+<h2>Some Snapshots of Server Side view</h2>
 
 ![admin1](https://user-images.githubusercontent.com/64147100/127620048-85cd42eb-3e6c-492b-9ee3-7aa6875039a0.png)
 
@@ -22,7 +22,7 @@ FrameWork Used: Bootstrap 5
 ![admin3](https://user-images.githubusercontent.com/64147100/127620063-1b512602-bc71-4bc9-b330-cc3a79d09315.png)
 
 
-#Some Snapshots of Server Side view
+<h2>Some Snapshots of Server Side view</h2>
 
 ![user1](https://user-images.githubusercontent.com/64147100/127620158-ba8971cc-3405-4667-a493-91c0bb6a3111.png)
 
